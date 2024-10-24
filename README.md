@@ -1,4 +1,4 @@
-Welcome to the Lindeas collection of software projects.
+Welcome to the [**Lindeas**](https://lindeas.com/) collection of software projects.
 
 <hr />
 
@@ -8,11 +8,11 @@ Jilo is a collection of services and tools for managing a Jitsi Meet platform
 
 ### jilo-server
 
-Server component with a web interface. It's where you look at the stats and graphs.
+Monitoring server with a web interface. It's where you look at the stats and graphs. It's where you manage most of the Jilo settings.
 
 ### jilo-agent
 
-Small server on a remote jitsi machine. Checks the local jitsi processes, gets data and sends it to the Jilo Server.
+Small server on a remote jitsi machine. Checks the local jitsi processes, gets configuration or usage data and sends it to the Jilo Server.
 
 ### jilo-cli
 
