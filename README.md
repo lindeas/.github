@@ -6,6 +6,8 @@ Welcome to the [**Lindeas**](https://lindeas.com/) collection of software projec
 
 Jilo is a collection of services and tools for managing a Jitsi Meet platform
 
+![Jilo](screenshot-jilo.png)
+
 ### jilo-server
 
 Monitoring server with a web interface. It's where you look at the stats and graphs. It's where you manage most of the Jilo settings.
@@ -20,7 +22,11 @@ Shell script on a remote jitsi machine. Runs periodically to fetch data from the
 
 ## TotalMeet
 
-[**TotalMeet**](https://totalmeet.com/) is a hosted webconferencing solution, based on Jitsi Meet. It has a custom user profiel and dashboard pages, and is aimed at helping communities and small to medium businesses get most of Jitsi Meet.
+[**TotalMeet**](https://totalmeet.com/) is a hosted webconferencing solution, based on Jitsi Meet.
+
+![TotalMeet](screenshot-totalmeet.png)
+
+It has a custom user profile and dashboard pages, and is aimed at helping communities and small to medium businesses get most of Jitsi Meet.
 
 You can use our own jitsi backend, or you can connect it to an external one - either your own or the official hosted backend from the Jitsi project, [**JaaS**](https://jaas.8x8.vc/).
 
