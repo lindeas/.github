@@ -34,4 +34,4 @@ You can use our own jitsi backend, or you can connect it to an external one - ei
 
 TotalMeet is still under construction, but if you are interested, please subscribe on the website to get notified once we launch it.
 
-If you are interested in a custom TotalMeet deployment, tailored to your specific needs, please contact us directly at contact@totalmeet.com
+If you are interested in a custom TotalMeet deployment, tailored to your specific needs, please [contact us directly](mailto:contact%40totalmeet.com?subject=TotalMeet%20custom%20deployment).
