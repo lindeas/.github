@@ -6,6 +6,8 @@ Welcome to the [**Lindeas**](https://lindeas.com/) collection of software projec
 
 Jilo is a collection of services and tools for managing a Jitsi Meet platform
 
+You can check it live at our [demo server](https://work.lindeas.com/jilo-web-demo/).
+
 ![Jilo](screenshot-jilo.png)
 
 ### jilo-server
