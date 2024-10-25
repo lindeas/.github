@@ -28,8 +28,10 @@ Shell script on a remote jitsi machine. Runs periodically to fetch data from the
 
 ![TotalMeet](screenshot-totalmeet.png)
 
-It has a custom user profile and dashboard pages, and is aimed at helping communities and small to medium businesses get most of Jitsi Meet.
+It has a custom user profile and dashboard pages, and is aimed at helping communities and small to medium businesses get most out of Jitsi Meet.
 
 You can use our own jitsi backend, or you can connect it to an external one - either your own or the official hosted backend from the Jitsi project, [**JaaS**](https://jaas.8x8.vc/).
 
 TotalMeet is still under construction, but if you are interested, please subscribe on the website to get notified once we launch it.
+
+If you are interested in a custom TotalMeet deployment, tailored to your specific needs, please contact us directly at contact@totalmeet.com
